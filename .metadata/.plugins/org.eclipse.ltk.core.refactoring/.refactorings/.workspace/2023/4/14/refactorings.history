@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;apistone_backend&apos;" deleteContents="true" description="Delete resource &apos;apistone_backend&apos;" element1="/apistone_backend" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1680429283857"/>&#x0A;<refactoring comment="Delete resource &apos;apistone_backend&apos;" deleteContents="false" description="Delete resource &apos;apistone_backend&apos;" element1="/apistone_backend" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1680429525005"/>
+</session>
